@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy new sweatshirt",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Begin promotional phase",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Read an article",
+      "completed": false
+    },
+    {
+      "title": "Set Interview",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
